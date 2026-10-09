@@ -1,0 +1,3 @@
+sample,live_sq1,live_sq2,live_sq3,live_sq4,dead_sq1,dead_sq2,dead_sq3,dead_sq4,dilution_factor
+flask_A,48,52,49,51,2,3,1,2,2
+flask_B,61,58,66,59,5,4,6,3,2
